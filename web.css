@@ -1,0 +1,97 @@
+header{
+    display: flex;
+    background-color: black;
+    height: 170px;
+}
+ul li{
+    display:inline-block;
+    color: aquamarine;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    color:gold;
+}
+h2{
+    text-align: center;
+}
+div a{
+    color: blue;
+}
+div p
+{   
+ text-align: center;
+}
+.grid
+{
+    text-align: center;
+    background-color: gold;
+}
+.grid1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.grid1 p{
+    margin-left:100px;
+}
+.item1
+{
+    padding: 25px;
+}
+
+.item2
+{
+    padding: 25px;
+}
+.item3
+{
+    padding: 25px;
+}
+hr
+{color:goldenrod
+}
+#safe a{
+    color:gold;
+    padding: 25px;
+}
+.grid2 
+{
+    display: grid;
+    display: flex;
+    flex-wrap: nowrap;
+}
+row
+{
+    display: flex;
+}
+body{
+    background-color:black;
+}
+h2{
+    color: goldenrod;
+}
+h3{
+    color: goldenrod;
+}
+.grid3 
+{
+    display: grid;
+    display: flex;
+    flex-wrap:nowrap;
+}
+.grid4 
+{
+    display: grid;
+    display: flex;
+    flex-wrap:nowrap;
+}
+form{
+    text-align: center;
+}
+button{
+    background-color: gold;
+}
+h3{
+    color: goldenrod;
+}
